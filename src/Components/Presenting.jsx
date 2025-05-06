@@ -1,5 +1,5 @@
 import React from 'react'
-import './presenting.css'
+import './Presenting.css'
 
 const Presenting = () => {
   return (
